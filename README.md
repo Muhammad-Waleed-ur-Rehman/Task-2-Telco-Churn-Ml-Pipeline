@@ -123,11 +123,6 @@ joblib.dump(best_model, "telco_churn_pipeline.pkl")
 * Improved model performance through GridSearchCV.
 * Exported a reusable production-ready pipeline using Joblib.
 
----
-
-## Key Results & Observations
-
-### Dataset Overview
 
 * Total records: **7,043 customers**
 * Test set size: **1,409 customers**
