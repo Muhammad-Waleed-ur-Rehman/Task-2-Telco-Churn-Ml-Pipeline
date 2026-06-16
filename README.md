@@ -1,5 +1,3 @@
-You can paste this directly into your `README.md`:
-
 # Telco Churn Prediction - End-to-End ML Pipeline
 
 ## Project Overview
